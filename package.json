@@ -1,0 +1,14 @@
+{
+  "name": "outsidebot",
+  "version": "1.0.0",
+  "description": "BOT jest tworzony, aby miedzynarodowi uzytkownicy mogli cieszyc sie jego urozmaiceniami na discordzie.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michvl.",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
